@@ -1,0 +1,42 @@
+
+body {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+}
+
+.image-container{
+	background-image: url("images/inspirations/inspi-1.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	opacity: 0.2;
+}
+
+.quote-section {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5rem;
+	opacity: 1;
+	position: absolute;
+	top: 0;
+	padding: 15% 5% 0;
+
+}
+.my-container {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.btn {
+	position: absolute;
+	top: 120%;
+	left: 42%;
+}
+h3 {
+	margin-top: 30px;
+}
